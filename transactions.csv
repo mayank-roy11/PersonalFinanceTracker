@@ -1,0 +1,4 @@
+id,description,amount,category,type,date
+1,"groceries",200.00,groceries,EXPENSE,2025-08-15
+2,"onsite trip",150.00,Transportation,EXPENSE,2025-08-15
+3,"salary credited",1000.00,Salary,INCOME,2025-08-15
